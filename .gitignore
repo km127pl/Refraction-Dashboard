@@ -1,0 +1,9 @@
+.env
+node_modules/**/*
+npm-debug.log
+package-lock.json
+*.log
+*.access.log
+*.error.log
+dist/**/*
+``
