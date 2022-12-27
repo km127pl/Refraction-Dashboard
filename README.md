@@ -1,3 +1,5 @@
+![Refraction Dashboard - a user-friendly interface that allows users to easily access and configure the various features and settings](assets/thumbnail-dashboard.png)
+
 # Refraction - Dashboard
 
 The dashboard for Refraction is a user-friendly interface that allows users to easily access and configure the various features and settings of the bot.
