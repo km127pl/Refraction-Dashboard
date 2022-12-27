@@ -43,9 +43,7 @@ If you have any questions or need help getting set up, feel free to join our [su
 TailwindCSS is a utility-first CSS framework for rapidly building custom user interfaces.
 You can learn more about it [here](https://tailwindcss.com/).
 
-<!-- React -->
-React is a JavaScript library for building user interfaces.
-You can learn more about it [here](https://reactjs.org/).
+<!-- NextJS -->
 
 <!-- Discord.js -->
 Discord.js is a powerful JavaScript library for interacting with the Discord API.
