@@ -36,3 +36,17 @@ TBD
 ## Support
 
 If you have any questions or need help getting set up, feel free to join our [support server](refraction.us.to/support).
+
+## Acknowledgements
+
+<!-- TailwindCSS -->
+TailwindCSS is a utility-first CSS framework for rapidly building custom user interfaces.
+You can learn more about it [here](https://tailwindcss.com/).
+
+<!-- React -->
+React is a JavaScript library for building user interfaces.
+You can learn more about it [here](https://reactjs.org/).
+
+<!-- Discord.js -->
+Discord.js is a powerful JavaScript library for interacting with the Discord API.
+You can learn more about it [here](https://discord.js.org/).
